@@ -18,7 +18,7 @@ In this application I refactored code in order to meet accessibility standards. 
 
 This appilcation is a webpage that is for viewing information about an SEO company. You can access the deployed appilcation in the link below.
 
-**[Deployed Application](kpierce236.github.io/challenge-1)**
+**[Deployed Application](https://kpierce236.github.io/Horiseon-Code-Refactor/)**
 
 ### Screenshot of Application
 
